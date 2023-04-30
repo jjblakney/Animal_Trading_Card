@@ -1,0 +1,44 @@
+/* add your CSS here */
+
+.full_card_container{
+  
+ border-style:solid;
+ border-width:thin;
+ border-color:lightgrey;
+ padding:2px;
+ box-shadow: 5px 10px  lightgrey;
+ position:absolute;
+ width:300px;
+  }
+
+.bottomcontainer{
+ box-shadow:lightgrey;
+ border-style:solid;
+ border-width:thin;
+ border-color:lightgrey;
+ }
+
+h3.bearname{
+padding: 2px; 
+
+}
+
+image{
+padding: 2px;
+}
+
+p.bearfact{
+  
+font-style:italic; 
+padding: 1px;
+}
+
+span.bear_list_labels{
+ font-weight:bold;
+  }
+
+ul.bear_list_definitions{
+ padding:0;
+ margin:0;
+ list-style:none;
+ }
