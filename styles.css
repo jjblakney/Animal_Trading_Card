@@ -26,6 +26,7 @@ padding: 2px;
 image{
 display: flex;
 align-items: center;
+justify-content:center;
 padding: 2px;
 }
 
