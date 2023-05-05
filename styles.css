@@ -1,15 +1,12 @@
 /* add your CSS here */
 
 .full_card_container{
- display: flex;
- align-items: center;
- justify-content:center 
  border-style:solid;
  border-width:thin;
  border-color:lightgrey;
  padding:2px;
  box-shadow: 5px 10px  lightgrey;
-/*position:absolute; */
+ position:absolute; 
   }
 
 .bottomcontainer{
@@ -24,7 +21,7 @@ padding: 2px;
 
 }
 
-/*image{ */
+image{ 
 padding: 2px;
 }
 
