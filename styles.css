@@ -7,8 +7,11 @@
  border-color:lightgrey;
  padding:2px;
  box-shadow: 5px 10px  lightgrey;
- position:absolute;
+/* position:absolute; */
  width:300px;
+ display: flex;
+ align-items: center;
+ justify-content:center;
   }
 
 .bottomcontainer{
@@ -24,9 +27,6 @@ padding: 2px;
 }
 
 image{
-display: flex;
-align-items: center;
-justify-content:center;
 padding: 2px;
 }
 
