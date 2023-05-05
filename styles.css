@@ -24,6 +24,8 @@ padding: 2px;
 }
 
 image{
+display: flex;
+align-items: center;
 padding: 2px;
 }
 
